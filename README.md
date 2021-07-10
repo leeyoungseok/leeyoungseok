@@ -13,4 +13,7 @@
 - 💬 Ask me about coding test, computer network, federated learning, and Bitcoin analysis
 - 📫 How to reach me: lee@cnu.ac.kr
 - 😄 Pronouns: Youngseok Lee
-- ⚡ Fun fact: swimming
+- ⚡ Fun fact: 🏊swimming
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyoungseok&theme=tokyonight)
+
