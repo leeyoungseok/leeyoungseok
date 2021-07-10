@@ -15,5 +15,7 @@
 - 😄 Pronouns: Youngseok Lee
 - ⚡ Fun fact: 🏊swimming
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyoungseok&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyoungseok&theme=tokyonight)
 
