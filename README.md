@@ -15,6 +15,8 @@
 - 😄 Pronouns: Youngseok Lee
 - ⚡ Fun fact: 🏊swimming
 - [<img src = "https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"/>]
+- [<img src = "https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=white"/>]
+- [<img src = "https://img.shields.io/badge/-Java-61DAFB?logo=java&logoColor=white"/>]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyoungseok&show_icons=true&theme=tokyonight)
 
