@@ -14,9 +14,9 @@
 - 📫 How to reach me: lee@cnu.ac.kr
 - 😄 Pronouns: Youngseok Lee
 - ⚡ Fun fact: 🏊swimming
-- [<img src = "https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"/>]
- [<img src = "https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=blue"/>]
- [<img src = "https://img.shields.io/badge/-Java-61DAFB?logo=java&logoColor=red"/>]
+- [<img src = "https://img.shields.io/badge/-ReactJs-lightblue?logo=react&logoColor=white"/>]
+ [<img src = "https://img.shields.io/badge/-Python-black?logo=python&logoColor=green"/>]
+ [<img src = "https://img.shields.io/badge/-Java-orange?logo=java&logoColor=red"/>]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyoungseok&show_icons=true&theme=tokyonight)
 
